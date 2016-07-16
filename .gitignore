@@ -9,9 +9,9 @@ Desktop.ini
 $RECYCLE.BIN/
 
 #Adding .classpath, .project, and .settings directory 
-6 .classpath 
-7 .project 
-8 .settings/* 
+.classpath 
+.project 
+.settings/* 
 
 # Windows Installer files
 *.cab
