@@ -8,6 +8,11 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+#Adding .classpath, .project, and .settings directory 
+6 .classpath 
+7 .project 
+8 .settings/* 
+
 # Windows Installer files
 *.cab
 *.msi
